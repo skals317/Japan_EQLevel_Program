@@ -1,0 +1,14 @@
+C:\Users\Aeni\source\repos\Level\Level\bin\Release\Level.exe.config
+C:\Users\Aeni\source\repos\Level\Level\bin\Release\Level.exe
+C:\Users\Aeni\source\repos\Level\Level\bin\Release\Level.pdb
+C:\Users\Aeni\source\repos\Level\Level\bin\Release\Newtonsoft.Json.dll
+C:\Users\Aeni\source\repos\Level\Level\bin\Release\Newtonsoft.Json.xml
+C:\Users\Aeni\source\repos\Level\Level\obj\Release\Level.csproj.AssemblyReference.cache
+C:\Users\Aeni\source\repos\Level\Level\obj\Release\Level.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aeni\source\repos\Level\Level\obj\Release\Level.Form1.resources
+C:\Users\Aeni\source\repos\Level\Level\obj\Release\Level.Properties.Resources.resources
+C:\Users\Aeni\source\repos\Level\Level\obj\Release\Level.csproj.GenerateResource.cache
+C:\Users\Aeni\source\repos\Level\Level\obj\Release\Level.csproj.CoreCompileInputs.cache
+C:\Users\Aeni\source\repos\Level\Level\obj\Release\Level.csproj.CopyComplete
+C:\Users\Aeni\source\repos\Level\Level\obj\Release\Level.exe
+C:\Users\Aeni\source\repos\Level\Level\obj\Release\Level.pdb
