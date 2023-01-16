@@ -87,7 +87,7 @@ namespace Level
 
         private void 콘텐츠_Opening(object sender, CancelEventArgs e)
         {
-            this.label1.Text = (string.Format("{0}", "오옹"));
+           
         }
     }
 }
